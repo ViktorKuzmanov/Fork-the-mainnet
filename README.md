@@ -27,7 +27,7 @@ npx hardhat node --fork https://mainnet.infura.io/v3/<YourInfuraProjectId>
 npx hardhat run scripts/deploy.js
 ```
 
-### 5. Interact with deployed contract on Hardhat network
+### 5. Interact with deployed contract 
 ```
 npx hardhat console
 
